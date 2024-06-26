@@ -1,5 +1,7 @@
 # Getting Started with Solvative
 
+## hosted link ->[https://solvative-task.netlify.app/](https://solvative-task.netlify.app/)
+
 # Clone this repo and perform the following commands in order
 
 ### `node setup`
