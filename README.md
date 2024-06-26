@@ -1,6 +1,8 @@
-# Getting Started with Solvative
+## Just FYI, In commit you can see 2 different accounts due to some global git config in my laptop
 
 ## hosted link : [https://solvative-task.netlify.app/](https://solvative-task.netlify.app/)
+
+
 
 # Clone this repo and perform the following commands in order
 
